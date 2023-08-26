@@ -1,0 +1,14 @@
+{
+  "name": "native-widgets",
+  "version": "1.0.0",
+  "description": "The \"native-widgets\" npm package is designed to enhance the user interface development experience in React Native applications by providing a set of pre-designed native widgets or components. These components are built to closely mimic the native UI elements of the respective platforms (iOS and Android), providing a consistent and familiar user experience for your app users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react-native-widgets"
+  ],
+  "author": "kunal-rai",
+  "license": "MIT"
+}
