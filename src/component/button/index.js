@@ -8,7 +8,7 @@ import { styles } from './styles'
  * @param {*} props
  * @returns
  */
-const Button = (props) => {
+const CustomButton = (props) => {
   const {
     buttonStyle,
     onPress,
@@ -43,14 +43,4 @@ const Button = (props) => {
   )
 }
 
-export default Button
-
-/**
- * Button Components Styles.
- */
-import { StyleSheet } from 'react-native'
-import { COLOR_WHITE } from '../../../utils/colors'
-
-/**
- *
- */
+export default CustomButton
